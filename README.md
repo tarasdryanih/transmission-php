@@ -15,7 +15,7 @@ Installation is easy using [Composer](https://getcomposer.org):
 ```json
 {
     "require": {
-        "kleiram/transmission-php": "dev-master"
+        "tarasdryanih/transmission-php": "dev-master"
     }
 }
 ```
